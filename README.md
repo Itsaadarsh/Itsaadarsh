@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello, It's <a href="http://itsaadarsh.github.io/">Aadarsh</a> here! 👋</b></h1>
+  <h1 align="center"><b>Hello there, It's <a href="http://itsaadarsh.github.io/">Aadarsh</a> here! 👋</b></h1>
 </p>
 
 <p>
@@ -63,6 +63,8 @@
 
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+<img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+
 <img style="padding-right:1rem" align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"/>
 
 <br>
@@ -71,7 +73,7 @@
 <br>
 
 <p>
-  <h1 align="center"><b>:zap: Github Stats</b></h1>
+  <h1 align="center"><b>:zap: Github Stats :zap:</b></h1>
 </p>
 
 [![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
