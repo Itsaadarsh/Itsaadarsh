@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h2 align="center"><b>Learner | Developer</b></h2>
+  <h2 align="center"><b>Full-Stack Developer</b></h2>
 </p>
 
 <p align="center">
